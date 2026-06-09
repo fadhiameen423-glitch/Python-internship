@@ -1,0 +1,15 @@
+exp1=int(input("Enter day 1 expense: "))
+exp2=int(input("Enter day 2 expense: "))
+exp3=int(input("Enter day 3 expense: "))
+exp4=int(input("Enter day 4 expense: "))
+exp5=int(input("Enter day 5 expense: "))
+exp6=int(input("Enter day 6 expense: "))
+exp7=int(input("Enter day 7 expense: "))
+total_exp=exp1+exp2+exp3+exp4+exp5+exp6+exp7
+average_exp=float(total_exp)/7
+highest_exp=max(exp1,exp2,exp3,exp4,exp5,exp6,exp7)
+lowest_exp=min(exp1,exp2,exp3,exp4,exp5,exp6,exp7)
+print("Total expense: " + str(total_exp))
+print("Average expense: " + str(average_exp))
+print("Highest expense: " + str(highest_exp))
+print("Lowest expense: " + str(lowest_exp))
