@@ -1,0 +1,5 @@
+2026-06-14 16:20:36 | add_expense | args=('food', 200.0) kwargs={}
+2026-06-14 16:21:07 | add_expense | args=('travel', 500.0) kwargs={}
+2026-06-14 16:21:16 | add_expense | args=('food', 100.0) kwargs={}
+2026-06-14 16:21:20 | get_summary | args=() kwargs={}
+2026-06-14 16:21:33 | view_all | args=() kwargs={}

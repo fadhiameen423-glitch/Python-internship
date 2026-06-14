@@ -1,0 +1,2 @@
+2026-06-14 16:34:44 | view_all | args=() kwargs={}
+2026-06-14 16:34:58 | add_expense | args=('food', 1500.0) kwargs={}
