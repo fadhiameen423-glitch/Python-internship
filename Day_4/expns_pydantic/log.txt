@@ -1,0 +1,2 @@
+2026-06-14 20:18:47 | add_expense | args=('123', 12345.0) kwargs={}
+2026-06-14 20:21:20 | view_all | args=() kwargs={}
