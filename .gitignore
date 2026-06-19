@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 .env
+Day_8/secure_task_api/sec_task.db
